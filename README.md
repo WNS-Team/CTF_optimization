@@ -1,2 +1,2 @@
 # CTF_optimization
-CT
+CTF
