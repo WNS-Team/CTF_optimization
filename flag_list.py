@@ -67,5 +67,5 @@ str_from_base32('Example_flags')
 str_from_byte('Example_flags')
 str_from_ascii('Example_flags')
 
-
+# for use strings : strings filename | grep -i 'output flag_list.py'
 
